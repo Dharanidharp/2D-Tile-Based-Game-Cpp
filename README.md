@@ -1,4 +1,4 @@
 # Game-development-Cpp
-#### This project involves developing multiple components and systems by following design patterns that are commonly used in game development
-#### The SimpleMiniGame folder contains all the code base, with header files in 'include' folder and cpp files in the 'source' folder
-#### The implementation follows the Entity Component Architecture
+## - This project involves implementing the Entity Component Architecture following Game design patterns.
+## - The implementation include Command Pattern for Input, Observer Pattern for Achievements, Big Arrays, Service Locator and Object Pooling
+## - The source code was implemented as a part of multiple assignments throught the module which expanded on the template code that was provided for each assignments.
