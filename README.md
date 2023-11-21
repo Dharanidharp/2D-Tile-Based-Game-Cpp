@@ -1,4 +1,4 @@
-## A 2D tile based game build using C++ and SFML framework (Independent Work)
+## A 2D tile based game build using C++ and SFML framework
 #### 1. This project involves implementing the Entity Component Architecture to create a 2D game
 #### 2. The code for all the graphics, entities, components and systems can be found in include and source folders
 #### 3. The implementation includes patterns such as Command for Input, Observer for Achievements, Big Arrays, Packed Arrays, Flyweight, Service Locator and Object Pooling
